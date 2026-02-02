@@ -40,5 +40,5 @@
 <br />
 
 <div align="center">
-  <sub>Proudly maintained by <b>Kashif Ali</b>. Built with ❤️ and code.</sub>
+  <sub>Proudly maintained by <b>Kashif Khokhar</b>. Built with ❤️ and code.</sub>
 </div>
