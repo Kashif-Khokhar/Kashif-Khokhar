@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2c3e50&height=250&section=header&text=Kashif%20Ali&fontSize=70&fontColor=bdc3c7&fontAlignY=35&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2c3e50&height=250&section=header&text=Kashif%20Khokhar&fontSize=70&fontColor=bdc3c7&fontAlignY=35&animation=fadeIn" alt="Header" />
 </div>
 
 # 💫 About Me
