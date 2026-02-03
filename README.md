@@ -19,7 +19,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Kashif-Khokhar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Khokhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-> **Performance Insight:** Currently maintaining a milestone of **152 total contributions** with a consistent **17-day streak** as of February 2026.
+> **Performance Insight:** Currently maintaining a milestone of **152 total contributions** with a consistent **19-day streak** as of February 2026.
 
 ---
 
