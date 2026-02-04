@@ -13,11 +13,6 @@ Full-Stack Developer | Backend Architect | Tech Enthusiast<br><br>🔭 Current P
 ![](https://nirzak-streak-stats.vercel.app/?user=Kashif-Khokhar&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kashif-Khokhar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Kashif-Khokhar&limit=5&theme=moltack&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 # 🌐 Connect With Me
 <div align="center">
 <a href="https://www.linkedin.com/in/kashif-ali-592b16262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
