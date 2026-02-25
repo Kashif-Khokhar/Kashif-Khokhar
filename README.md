@@ -13,7 +13,7 @@ Full-Stack Developer | Backend Architect | Tech Enthusiast<br><br>🔭 Current P
 <div align="center">
 <a href="https://www.linkedin.com/in/kashif-ali-592b16262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://x.com/Kashif_Khokhar1" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"></a>
-<a href="mailto:kashifkhokhar1199@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:kashifalikhokharofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/malik._.kashif_khokhar_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 </div>
 
