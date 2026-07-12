@@ -10,8 +10,8 @@
 
 ### 🌐 Let's Connect
 
-<a href="https://github.com/Kashif-Khokhar" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
-<a href="https://www.linkedin.com/in/kashif-ali-592b16262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://discord.com/users/1523250776271749152" target="_blank"><img src="https://img.shields.io/badge/-Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
+<a href="https://www.linkedin.com/in/kashif-ali-592b16262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&cacheSeconds=1"/></a>
 <a href="https://x.com/Kashif_Khokhar1" target="_blank"><img src="https://img.shields.io/badge/-X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff"/></a>
 <a href="mailto:kashifalikhokharofficial@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 <a href="https://www.instagram.com/malik._.kashif_khokhar_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
