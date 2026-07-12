@@ -8,14 +8,23 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/kashif-ali-592b16262/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/Kashif_Khokhar1" target="_blank"><img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-<a href="mailto:kashifalikhokharofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/malik._.kashif_khokhar_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+### 🌐 Let's Connect
 
-<img src="https://komarev.com/ghpvc/?username=Kashif-Khokhar&label=Profile%20Views&color=203a43&style=for-the-badge" alt="profile views"/>
+<a href="https://github.com/Kashif-Khokhar" target="_blank"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
+<a href="https://www.linkedin.com/in/kashif-ali-592b16262/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://x.com/Kashif_Khokhar1" target="_blank"><img src="https://img.shields.io/badge/-X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff"/></a>
+<a href="mailto:kashifalikhokharofficial@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://www.instagram.com/malik._.kashif_khokhar_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/></a>
+<a href="https://kashif-portfolio-two.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/Kashif-Khokhar?label=Followers&style=for-the-badge&labelColor=0d1117&color=203a43&logo=github&logoColor=white" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=Kashif-Khokhar&label=Profile+Views&color=203a43&style=for-the-badge&labelColor=0d1117" alt="profile views"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=4&section=header" width="100%"/>
 
 <br/>
 
